@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HypnosProtocol/hypnos.github.io/static/css/main.c289d437.css",
-    "main.js": "/HypnosProtocol/hypnos.github.io/static/js/main.eec28cae.js",
-    "static/media/Background.svg": "/HypnosProtocol/hypnos.github.io/static/media/Background.3ed5c9bf87614ba92ac46d98e1df4afb.svg",
-    "static/media/Logo.svg": "/HypnosProtocol/hypnos.github.io/static/media/Logo.59284dca1452628c68024f05eb1cb40d.svg",
-    "index.html": "/HypnosProtocol/hypnos.github.io/index.html",
-    "main.c289d437.css.map": "/HypnosProtocol/hypnos.github.io/static/css/main.c289d437.css.map",
-    "main.eec28cae.js.map": "/HypnosProtocol/hypnos.github.io/static/js/main.eec28cae.js.map"
+    "main.css": "/HypnosProtocol/hypnos/static/css/main.c289d437.css",
+    "main.js": "/HypnosProtocol/hypnos/static/js/main.07356942.js",
+    "static/media/Background.svg": "/HypnosProtocol/hypnos/static/media/Background.3ed5c9bf87614ba92ac46d98e1df4afb.svg",
+    "static/media/Logo.svg": "/HypnosProtocol/hypnos/static/media/Logo.59284dca1452628c68024f05eb1cb40d.svg",
+    "index.html": "/HypnosProtocol/hypnos/index.html",
+    "main.c289d437.css.map": "/HypnosProtocol/hypnos/static/css/main.c289d437.css.map",
+    "main.07356942.js.map": "/HypnosProtocol/hypnos/static/js/main.07356942.js.map"
   },
   "entrypoints": [
     "static/css/main.c289d437.css",
-    "static/js/main.eec28cae.js"
+    "static/js/main.07356942.js"
   ]
 }
